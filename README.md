@@ -80,7 +80,10 @@ Contributions and suggestions are welcome! Please open an issue or submit a pull
 This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for details.
 
 ---
-
+![AgriMaster Banner](images/banner.png)
+![Dashboard](images/dashboard.png)
+![Crops](images/crops.png)
+![Livestock](images/livestock.png)
 ## About
 
 Developed and maintained by [NOVUMSOLVO](https://github.com/NOVUMSOLVO).
